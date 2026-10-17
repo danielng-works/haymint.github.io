@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "living",
+    "name": "Living",
+    "label": "Nhà cửa",
+    "description": "Sắp xếp gọn hơn, tận dụng không gian sống tốt hơn.",
+    "subcategories": [
+      {
+        "slug": "luu-tru",
+        "label": "Lưu trữ & sắp xếp"
+      },
+      {
+        "slug": "noi-that-gap-gon",
+        "label": "Nội thất gấp gọn"
+      },
+      {
+        "slug": "don-dep-ve-sinh",
+        "label": "Dọn dẹp & vệ sinh"
+      },
+      {
+        "slug": "anh-sang",
+        "label": "Ánh sáng"
+      },
+      {
+        "slug": "phong-nho",
+        "label": "Phòng nhỏ"
+      }
+    ]
+  },
+  {
+    "slug": "desk",
+    "name": "Desk",
+    "label": "Góc làm việc",
+    "description": "Những chi tiết nhỏ cho góc làm việc ngăn nắp, tiện dụng.",
+    "subcategories": [
+      {
+        "slug": "hub-cong-ket-noi",
+        "label": "Hub & cổng kết nối"
+      },
+      {
+        "slug": "quan-ly-day-cap",
+        "label": "Quản lý dây cáp"
+      },
+      {
+        "slug": "phu-kien-ban",
+        "label": "Phụ kiện bàn"
+      },
+      {
+        "slug": "anh-sang-ban",
+        "label": "Ánh sáng bàn"
+      },
+      {
+        "slug": "gia-do-ke",
+        "label": "Giá đỡ & kê"
+      }
+    ]
+  },
+  {
+    "slug": "finds",
+    "name": "Finds",
+    "label": "Món hay ho",
+    "description": "Khám phá những món nhỏ giải quyết nhu cầu hằng ngày.",
+    "subcategories": [
+      {
+        "slug": "gadget-nho",
+        "label": "Gadget nhỏ"
+      },
+      {
+        "slug": "du-lich",
+        "label": "Du lịch"
+      },
+      {
+        "slug": "o-to-di-chuyen",
+        "label": "Ô tô & di chuyển"
+      },
+      {
+        "slug": "qua-tang",
+        "label": "Quà tặng"
+      },
+      {
+        "slug": "doc-dao",
+        "label": "Độc đáo"
+      }
+    ]
+  }
+]

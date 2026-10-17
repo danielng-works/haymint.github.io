@@ -1,0 +1,47 @@
+[
+  {
+    "category": "living",
+    "subcategory": "luu-tru",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "id": "reel-1",
+    "title": "Gợi ý Nhà cửa",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "publishedAt": "2026-10-17"
+  },
+  {
+    "category": "desk",
+    "subcategory": "hub-cong-ket-noi",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "id": "reel-2",
+    "title": "Gợi ý Góc làm việc",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "publishedAt": "2026-10-17"
+  },
+  {
+    "category": "finds",
+    "subcategory": "gadget-nho",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "id": "reel-3",
+    "title": "Gợi ý Món hay ho",
+    "duration": "00:30",
+    "thumbnail": "",
+    "url": "",
+    "publishedAt": "2026-10-17"
+  }
+]

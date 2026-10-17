@@ -1,0 +1,68 @@
+[
+  {
+    "category": "living",
+    "subcategory": "luu-tru",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "slug": "huong-dan-1",
+    "title": "Sắp xếp Nhà cửa",
+    "intro": "Bản nháp: thay bằng nội dung gốc trước khi đăng.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi lựa chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "category": "desk",
+    "subcategory": "hub-cong-ket-noi",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "slug": "huong-dan-2",
+    "title": "Sắp xếp Góc làm việc",
+    "intro": "Bản nháp: thay bằng nội dung gốc trước khi đăng.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi lựa chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "updatedAt": "2026-10-17"
+  },
+  {
+    "category": "finds",
+    "subcategory": "gadget-nho",
+    "tags": [
+      "phòng nhỏ",
+      "gấp gọn"
+    ],
+    "status": "draft",
+    "slug": "huong-dan-3",
+    "title": "Sắp xếp Món hay ho",
+    "intro": "Bản nháp: thay bằng nội dung gốc trước khi đăng.",
+    "sections": [
+      {
+        "heading": "Bắt đầu từ nhu cầu",
+        "paragraphs": [
+          "Đo không gian trước khi lựa chọn."
+        ]
+      }
+    ],
+    "relatedProductIds": [],
+    "updatedAt": "2026-10-17"
+  }
+]

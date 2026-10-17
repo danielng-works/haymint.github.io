@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Set baseUrl in data/config.json, then run tools/Publish-HayMint.ps1 -ValidateOnly.
